@@ -1,0 +1,7 @@
+2019-03-22 13:54:33.833 -03 [1814] LOG:  listening on IPv6 address "::1", port 5432
+2019-03-22 13:54:33.833 -03 [1814] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-03-22 13:54:33.833 -03 [1814] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2019-03-22 13:54:34.250 -03 [1815] LOG:  database system was shut down at 2019-03-22 01:54:21 -03
+2019-03-22 13:54:34.265 -03 [1814] LOG:  database system is ready to accept connections
+2019-03-22 15:52:06.990 -03 [5497] FATAL:  lock file "postmaster.pid" already exists
+2019-03-22 15:52:06.990 -03 [5497] HINT:  Is another postmaster (PID 1814) running in data directory "/usr/local/var/postgres"?
